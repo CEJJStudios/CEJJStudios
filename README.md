@@ -13,8 +13,8 @@ Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em 
 Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
 
 ## Nossa Equipe
-[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](Github.com/JorjScott) | [@ifiokjr](https://github.com/ifiokjr) | [@cecilia2904](https://github.com/cecilia2904)
---- | --- | --- | ---
+[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](Github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)
+
 
 
 <!---## Nosso Contato
