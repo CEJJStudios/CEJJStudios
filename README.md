@@ -1,4 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1BANNER.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # Quem é a CEJJ Studios?
 Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em Informática, decidimos criar um jogo interativo que auxiliasse na aprendizagem do aluno nos diversos temas de programação, principalmente para quem está iniciando nesse ramo e não tem a menor ideia de onde começar.
