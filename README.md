@@ -40,15 +40,6 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
   &nbsp;
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-&nbsp;
-
-<img src="(https://img.shields.io/badge/RPGMaker-%2300C4CC.svg?style=for-the-badge&logo=RPGMaker&logoColor=white" height="25">
-&nbsp;
-  
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-&nbsp;
-
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 &nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
