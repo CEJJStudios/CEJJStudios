@@ -4,7 +4,7 @@
 
 ---
 
-Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em Informática no IFCE, decidimos criar um jogo interativo que auxiliasse na aprendizagem do aluno nos diversos temas de programação, principalmente para quem está iniciando nesse ramo e não tem a menor ideia de onde começar.
+Nós somos uma pequena empresa que nascemos a pouco de em uma das cadeiras da matriz curricular do curso Técnico em Informática. Estamos engatinhando no caminho para desenvolver um site de jogos para o aprendizado dinâmico de algumas linguagens de programação.
 
 ---
 
