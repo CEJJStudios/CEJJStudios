@@ -27,7 +27,7 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
   <p  align="center">
 
   
-<img src="(https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="(https://img.shields.io/badge/reactjs%20-%2320232a.svg?&style=for-the-badge&logo=reactjs&logoColor=%2361DAFB" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
   &nbsp;
