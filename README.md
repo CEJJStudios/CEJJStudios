@@ -81,7 +81,7 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
 ---
 
 ### Qual a Origem do Nosso Nome?
-Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
+Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("ciêijêijêi" ou apelidado de "cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
 
 ---
 
