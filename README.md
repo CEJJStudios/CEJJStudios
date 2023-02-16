@@ -4,7 +4,7 @@
 
 Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em Informática no IFCE, decidimos criar um jogo interativo que auxiliasse na aprendizagem do aluno nos diversos temas de programação, principalmente para quem está iniciando nesse ramo e não tem a menor ideia de onde começar.
 
-## <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens que serão Abordadas Inicialmente:</b></h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens que serão Abordadas Inicialmente:</b>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -28,8 +28,8 @@ Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em 
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=CEJJStudios&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEJJStudios&theme=react&layout=compact" />
 </p>
 
 ## Qual a Origem do Nosso Nome?
