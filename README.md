@@ -2,9 +2,13 @@
 
 # Quem é a CEJJ Studios?
 
+------
+
 Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em Informática no IFCE, decidimos criar um jogo interativo que auxiliasse na aprendizagem do aluno nos diversos temas de programação, principalmente para quem está iniciando nesse ramo e não tem a menor ideia de onde começar.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens que serão Abordadas Inicialmente:</b>
+------
+
+## <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens que serão Abordadas Inicialmente:</b></h3>
 
 <br>
 
@@ -43,8 +47,12 @@ Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em 
 ## Qual a Origem do Nosso Nome?
 Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
 
+------
+
 ## Nossa Equipe
 [@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](Github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)
+
+------
 
 <h3 align="center">Fale Conosco:</h3>
 <div align="center">
@@ -56,12 +64,7 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
   
 </div>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
-
-
+------
 
 <!---## Nosso Contato
 <img src="" width="512" >--->
