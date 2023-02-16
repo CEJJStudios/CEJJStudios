@@ -10,10 +10,6 @@ Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em 
 
 ## <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens que serão Abordadas Inicialmente:</b></h3>
 
-<br>
-
-<h3 align="center">Linguagens e Ferramentas Utilizadas:</h3>
-
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
