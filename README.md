@@ -4,7 +4,7 @@
 
 ---
 
-Nós somos uma pequena empresa que nascemos a pouco de em uma das cadeiras da matriz curricular do curso Técnico em Informática. Estamos engatinhando no caminho para desenvolver um site de jogos para o aprendizado dinâmico de algumas linguagens de programação.
+Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da matriz curricular do curso Técnico em Informática no IFCE.Estamos engatinhando no caminho para desenvolver um site de jogos para o aprendizado dinâmico de algumas linguagens de programação.
 
 ---
 
