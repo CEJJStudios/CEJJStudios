@@ -46,9 +46,10 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
 &nbsp;-->
 <img src="https://img.shields.io/badge/figma-0078D6?style=for-the-badge&logo=figma&logoColor=white" height="25">
 &nbsp; 
-<img src="https://img.shields.io/badge/rpgmaker-0078D6?style=for-the-badge&logo=rpgmaker&logoColor=white" height="25">
-&nbsp; 
 <img src="https://img.shields.io/badge/trello-0078D6?style=for-the-badge&logo=trello&logoColor=white" height="25">
+&nbsp; 
+<img src="https://img.shields.io/badge/rpgmaker-0078D6?style=for-the-badge&logo=rpgmaker&logoColor=white" height="25">
+
 
 
 
