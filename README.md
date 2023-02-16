@@ -98,7 +98,3 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
 <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
-
-
-<!---## Nosso Contato
-<img src="" width="512" >--->
