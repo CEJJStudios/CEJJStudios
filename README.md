@@ -8,7 +8,7 @@ Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em 
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Linguagens e Ferramentas Utilizadas:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -30,6 +30,8 @@ Nós somos uma pequena empresa que após terminar o Curso Técnico Integrado em 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+------
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
