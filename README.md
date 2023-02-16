@@ -31,7 +31,7 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
   &nbsp;
 <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%0078d7.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>  
  </p>
  
  <p  align="center">
@@ -40,7 +40,7 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
   &nbsp;
 
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25">
 &nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
 &nbsp;
