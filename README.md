@@ -31,19 +31,19 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
   &nbsp;
 <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
   &nbsp;
-<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>  
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>  
  </p>
  
  <p  align="center">
 
   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
   &nbsp;
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 &nbsp;
   
-  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
+  <img src="(https://img.shields.io/badge/RPGMaker-%2300C4CC.svg?style=for-the-badge&logo=RPGMaker&logoColor=white" height="25">
 &nbsp;
   
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
