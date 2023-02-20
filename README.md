@@ -88,6 +88,7 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
 ### Nossa Equipe
 <!---[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](https://github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)--->
 
+<p  align="center">
 <table>
   <tbody>
     <tr>
@@ -98,6 +99,7 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
     </tr>
   </tbody>
 </table>
+</p>
 
 ---
 
