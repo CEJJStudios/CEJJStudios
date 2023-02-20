@@ -94,9 +94,13 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
+
 
 <h3 align="center">Fale Conosco:</h3>
 <div align="center">
