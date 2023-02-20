@@ -99,6 +99,7 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
   </tbody>
 </table>
 
+---
 
 <h3 align="center">Fale Conosco:</h3>
 <div align="center">
