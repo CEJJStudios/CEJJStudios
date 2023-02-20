@@ -86,17 +86,15 @@ Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? A
 ---
 
 ### Nossa Equipe
-[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](https://github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)
-
----
+<!---[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](https://github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)--->
 
 <table>
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/jeancmlima"><img src="https://avatars.githubusercontent.com/u/125226620?s=400&u=75572cb6825f5e3140326aa304d8a8a68d8ee545&v=4" width="100px;" alt="Jean Lima"/><br /><sub><b>Jean Lima</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/JorjScott"><img src="https://avatars.githubusercontent.com/u/99372702?v=4" width="100px;" alt="Jorge Luiz"/><br /><sub><b>Jorge Luiz</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/cecilia2904"><img src="https://avatars.githubusercontent.com/u/90199276?v=4" width="100px;" alt="Maria Cecília"/><br /><sub><b>Maria Cecília</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
