@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1BANNER.png)
 
 ### Quem é a CEJJ Studios? 
-### <img src="https://giphy.com/gifs/mario-miguel-e-xUOxfjsW9fWPqEWouI" width="25"> <b>Quem é a CEJJ Studios?</b>
+### <img src="https://giphy.com/gifs/hoppip-black-and-white-vintage-hoppip-eTVG7eVNnud8Y" width="25"> <b>Quem é a CEJJ Studios?</b>
 
 ---
 
