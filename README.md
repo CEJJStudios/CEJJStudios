@@ -1,8 +1,8 @@
 ![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1BANNER.png)
 
 ### Quem é a CEJJ Studios? 
-### <img src="http://hoppip.tumblr.com/" width="25"> <b>Quem é a CEJJ Studios?</b>
-
+### <img src="https://giphy.com/gifs/hoppip-black-and-white-vintage-hoppip-eTVG7eVNnud8Y" width="25"> <b>Quem é a CEJJ Studios?</b>
+<iframe src="https://giphy.com/embed/eTVG7eVNnud8Y" width="480" height="417" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hoppip-black-and-white-vintage-hoppip-eTVG7eVNnud8Y">via GIPHY</a></p>
 ---
 
 Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da matriz curricular do curso Técnico em Informática no IFCE.Estamos engatinhando no caminho para desenvolver um site de jogos para o aprendizado dinâmico de algumas linguagens de programação.
