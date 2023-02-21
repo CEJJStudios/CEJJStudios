@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1BANNER.png)
 
-### Quem é a CEJJ Studios? 
+### ➤ Quem é a CEJJ Studios? 
 
 ---
 
@@ -80,12 +80,12 @@ Nós somos uma pequena empresa que nascemos recentemente em uma das cadeiras da 
 
 ---
 
-### Qual a Origem do Nosso Nome?
+### ➤ Qual a Origem do Nosso Nome?
 Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("ciêijêijêi" ou apelidado de "cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
 
 ---
 
-### Nossa Equipe:
+### ➤ Nossa Equipe:
 <!---[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](https://github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)--->
 
 <div align="center">
