@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1BANNER.png)
+![Design and Development](https://github.com/CEJJStudios/CEJJStudios/blob/main/CEJJV1BANNER2.gif)
 
 ### ➤ Quem é a CEJJ Studios? 
 
